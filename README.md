@@ -12,19 +12,19 @@ Avaan virtaalikoneen ja terminaalin.
 
 Aloitan lataamalla micro-editorin komennoilla:
 
-  $ sudo apt-get update
+    sudo apt-get update
 
-  $ sudo apt-get install micro
+    sudo apt-get install micro
 
 ![11](https://user-images.githubusercontent.com/112497215/213946557-36ebcab7-c5ad-4557-bc6a-5eb25e15cacb.PNG)
 
 Tämän jälkeen lataan lshw:n komennolla:
 
-  $ sudo apt-get install lshw
+    sudo apt-get install lshw
  
 ja listaan koneen raudan komennolla: 
  
-  $ sudo lshw -short -sanitize
+    sudo lshw -short -sanitize
   
   Tulostuksesta näemme tarkemmat tiedot koneestani mm. muistien määrät, processorin mallin sekä systeemin.
   
@@ -32,7 +32,7 @@ ja listaan koneen raudan komennolla:
 
 Seuraavaksi asennan 3 komentoriviohjelmaa, asensin tree, python3 ja figlet ohjelmat komennolla:
 
-  $ sudo apt-get install tree python3-py figlet
+    sudo apt-get install tree python3-py figlet
  
  
 ![333](https://user-images.githubusercontent.com/112497215/213946568-0f0137a2-c779-44c6-93ec-b202c8051f4f.PNG)
