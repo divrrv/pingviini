@@ -82,4 +82,29 @@ Viimeiseksi näytän muutaman esimerkin grep-komennon käytöstä.
 
 # h3 Vapaus
 
+
+## x)
+
+
+## a)
+Koitin etsiä kaikkiin kolmeen github sivut, mutta python ja tree osoittautuivat haasteeksi löysin kuitenkin wikipediasta treen lisenssin ja pythonin omilta sivuilta pythonin lisenssin.
+
+### Tree
+
+![image](https://user-images.githubusercontent.com/112497215/214563718-974e4d38-44e4-4860-9076-f15835736efe.png)
+
+### Figlet
+
+![image](https://user-images.githubusercontent.com/112497215/214563868-267e930b-5c9f-421c-95ff-3f35d0eef7e8.png)
+
+### Python3
+Python Software Foundation License Version 2
+
+
+## b)
+
+## c)
+
+## d)
+
 ## The End
