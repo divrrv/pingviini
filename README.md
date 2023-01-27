@@ -4,6 +4,14 @@ Repositorio tehtävälle h2
 
 # h2 Komentaja Pingviini
 
+## Linux komentorivin perusteet (tiivistelmä) 27.1 14:2
+
+Komentorivillä voit esimerkiksi asentaa ohjelmia ja tarkastella tiedostojen sisältöä sekä liikkua tiedostojen välillä.
+Tällä komennolla näet missä kohdassa tiedostoja olet:
+
+        pwd
+
+
 ## Tehtävä
 
 Tehtävässä asennan micro-editorin, listaan koneen raudan, asennan 3 komentoriviohjelmaa, näytän kansioiden sisältöjä sekä muutaman kuvaavan esimerkin grep-komennon käytöstä.
