@@ -90,6 +90,13 @@ Viimeiseksi näytän muutaman esimerkin grep-komennon käytöstä.
 
 # h3 Vapaus
 
+## x) 27.1 14:41
+
+Vapaassa ohjelmassa saat oikeuden ajaa, kopioda, levittää, opiskella ja kehittää ohjelmistoa.
+
+Avoimen lähdekoodin ohjelmistot ovat melkein kuin vapaat ohjelmistot, mutta hieman eroavalla lisenssillä.
+
+
 
 ## a)
 Koitin etsiä kaikkiin kolmeen github sivut, mutta python ja tree osoittautuivat haasteeksi löysin kuitenkin wikipediasta treen lisenssin ja pythonin omilta sivuilta pythonin lisenssin.
