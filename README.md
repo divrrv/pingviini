@@ -22,4 +22,8 @@
 
 ## h10 [DJ Ango](https://github.com/divrrv/pingviini/blob/main/h10.md)
 
+## h11 [prob](https://github.com/divrrv/pingviini/blob/main/h11.md)
+
+## h12 [vianselvitys](https://github.com/divrrv/pingviini/blob/main/h12.md)
+
 ![image](https://user-images.githubusercontent.com/112497215/215332551-20b55b58-1919-4b20-8b8f-ace8a7e38e11.png)
